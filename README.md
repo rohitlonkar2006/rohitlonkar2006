@@ -1,60 +1,98 @@
-# Hi 👋, I'm Rohit Lonkar
+# 👋 Hi, I'm Rohit Lonkar
 
-Computer Engineering student at MIT ADT University, Pune.  
-Interested in Data Analysis, Android Development, and building useful software projects.
+🎓 Computer Engineering Student at MIT ADT University, Pune  
+📊 Aspiring Data Analyst | 📱 App Developer | 💻 Tech Enthusiast  
 
 ---
 
-## About Me
+## 🚀 About Me
 
-- 📊 Learning Data Analysis with Python
+- 📈 Learning Data Analysis using Python
 - 🐍 Working with Pandas, NumPy, Matplotlib & Seaborn
-- 📱 Built Android apps using Java and Android Studio
+- 📱 Developed Android apps using Java & Android Studio
 - 💙 Exploring Flutter for cross-platform app development
-- 🗄️ Comfortable with SQL and database concepts
+- 🗄️ Comfortable with SQL & database concepts
+- 📊 Learning Power BI dashboard creation
 - 🔧 Using Git & GitHub for version control
-- 📈 Learning Power BI and dashboard creation
 
 ---
 
-## Tech I Use
+# 🛠️ Tech Stack
 
-**Languages**
-- Python
-- Java
-- SQL
-- Dart
+## 👨‍💻 Languages
 
-**Libraries & Tools**
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Power BI
-- Git & GitHub
-- Android Studio
-- Flutter
-- MySQL
-- VS Code
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,dart,mysql,html,css" />
+</p>
 
 ---
 
-## Projects
+## 📊 Data Analytics & Visualization
 
-### Gurgaon Real Estate Analysis
-Analyzed real estate datasets to study pricing trends and location insights using Python libraries.
+<p>
+  <img src="https://skillicons.dev/icons?i=py" />
+</p>
 
-### Android Educational App
-Created educational Android apps with images, audio, and interactive UI using Java.
-
-### File Organizer
-Built a Python automation script to organize files into folders automatically.
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
-## Connect With Me
+## ⚙️ Tools & Technologies
 
-- LinkedIn: linkedin.com/in/rohit-lonkar-746948274
-- GitHub: github.com/rohitlonkar2006
-- X/Twitter: x.com/lonkarrohit77
-- Email: lonkarrohit77@gmail.com
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,flutter,androidstudio,vscode" />
+</p>
+
+---
+
+# 📂 Projects
+
+### 📊 Gurgaon Real Estate Analysis
+- Performed exploratory data analysis on property datasets
+- Identified pricing trends and location-based insights
+- Used Python, Pandas, Matplotlib & Seaborn
+
+### 📱 Android Educational App
+- Built Android applications using Java & Android Studio
+- Integrated audio, images, and interactive UI
+
+### 🤖 File Organizer Automation Tool
+- Developed Python script to automatically organize files
+- Improved folder management and reduced manual work
+
+---
+
+# 📈 Currently Learning
+
+- Power BI Dashboards
+- Advanced SQL Queries
+- Machine Learning Basics
+- Data Visualization Techniques
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/rohit-lonkar-746948274" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://github.com/rohitlonkar2006" target="blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://x.com/lonkarrohit77" target="blank">
+<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x" />
+</a>
+</p>
+
+📧 Email: **lonkarrohit77@gmail.com**
+
+---
+
+⭐ Interested in Data Analytics, App Development, and building practical software projects.
