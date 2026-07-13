@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Rohit Lonkar</h1>
 
 <h3 align="center">
-Computer Engineering Student • Aspiring Data Analyst • App Developer
+Computer Engineering Student • AI & GenAI Developer • Agentic AI Enthusiast
 </h3>
 
 <p align="center">
-📍 Pune, India &nbsp; • &nbsp; 💻 Tech Enthusiast &nbsp; • &nbsp; 📊 Learning Data Analytics
+📍 Pune, India &nbsp; • &nbsp; 💻 AI Developer &nbsp; • &nbsp; 🤖 Building Intelligent AI Applications
 </p>
 
 ---
 
 # 🚀 About Me
 
-- 📈 Learning **Data Analysis** using Python
-- 🐍 Working with **Pandas, NumPy, Matplotlib & Seaborn**
-- 📱 Developed Android apps using **Java & Android Studio**
-- 💙 Exploring **Flutter** for cross-platform app development
-- 🗄️ Comfortable with **SQL & Database Concepts**
-- 📊 Learning **Power BI Dashboard Creation**
+- 🤖 Learning and building **Agentic AI Applications**
+- 🔗 Working with **LangChain** and **LangGraph**
+- 🧠 Exploring **Retrieval-Augmented Generation (RAG)**
+- 🛠️ Building AI Agents using **MCP (Model Context Protocol)**
+- 🐍 Developing AI applications using **Python**
+- 🗄️ Working with **SQL & SQLite**
 - 🔧 Using **Git & GitHub** for version control
 
 ---
@@ -30,48 +30,33 @@ Computer Engineering Student • Aspiring Data Analyst • App Developer
 <img src="https://skillicons.dev/icons?i=dart" height="55"/>
 <img src="https://skillicons.dev/icons?i=flutter" height="55"/>
 <img src="https://skillicons.dev/icons?i=mysql" height="55"/>
+<img src="https://skillicons.dev/icons?i=sqlite" height="55"/>
 <img src="https://skillicons.dev/icons?i=git" height="55"/>
 <img src="https://skillicons.dev/icons?i=github" height="55"/>
-<img src="https://skillicons.dev/icons?i=androidstudio" height="55"/>
 <img src="https://skillicons.dev/icons?i=vscode" height="55"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-4B8BBE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-Agentic_AI-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
 ---
 
-# 📂 Projects
+# 📚 Currently Learning
 
-## 📊 Gurgaon Real Estate Analysis
-🔹 Analyzed real estate datasets to identify pricing trends and location insights  
-🔹 Used Python, Pandas, Matplotlib & Seaborn  
+✨ Advanced Agentic AI
 
----
+✨ Multi-Agent Systems
 
-## 📱 Android Educational App
-🔹 Developed Android applications using Java & Android Studio  
-🔹 Added audio, images, and interactive UI features  
+✨ Retrieval-Augmented Generation (RAG)
 
----
+✨ LangGraph Workflows
 
-## 🤖 File Organizer Automation Tool
-🔹 Built Python automation script for organizing files automatically  
-🔹 Reduced manual file management effort  
-
----
-
-# 📈 Currently Learning
-
-✨ Power BI Dashboards  
-✨ Advanced SQL Queries  
-✨ Machine Learning Basics  
-✨ Data Visualization Techniques  
+✨ MCP (Model Context Protocol)
 
 ---
 
@@ -100,5 +85,5 @@ Computer Engineering Student • Aspiring Data Analyst • App Developer
 ---
 
 <p align="center">
-⭐ Interested in Data Analytics, App Development, and building practical software projects.
+⭐ Passionate about Generative AI, Agentic AI, RAG, LangChain, LangGraph, and building intelligent AI applications.
 </p>
