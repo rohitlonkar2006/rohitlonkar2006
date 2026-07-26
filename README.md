@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Lonkar</h1>
 
 <h3 align="center">
-Computer Engineering Student • AI & GenAI Developer • Agentic AI Enthusiast
+Computer Engineering Student • Agentic AI Learner
 </h3>
 
 <p align="center">
@@ -85,5 +85,5 @@ Computer Engineering Student • AI & GenAI Developer • Agentic AI Enthusiast
 ---
 
 <p align="center">
-⭐ Passionate about Generative AI, Agentic AI, RAG, LangChain, LangGraph, and building intelligent AI applications.
+⭐ Passionate about Agentic AI, RAG, LangChain, LangGraph, and building intelligent AI applications.
 </p>
