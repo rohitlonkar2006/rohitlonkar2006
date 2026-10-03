@@ -129,7 +129,7 @@ flowchart LR
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 📊 GitHub Stats
-<div align="center"> <a href="https://github.com/rohitlonkar2006"> <img src="https://img.shields.io/github/followers/rohitlonkar2006?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=00A67E&labelColor=0F2027" alt="GitHub Followers" /> </a> <a href="https://github.com/rohitlonkar2006"> <img src="https://img.shields.io/github/stars/rohitlonkar2006?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=ffcc33&labelColor=0F2027" alt="GitHub Stars" /> </a> <a href="https://github.com/rohitlonkar2006?tab=repositories"> <img src="https://img.shields.io/github/repos/rohitlonkar2006?style=for-the-badge&logo=github&logoColor=white&label=Public%20Repos&color=3aa0ff&labelColor=0F2027" alt="Public Repositories" /> </a>
+<div align="center"> <a href="https://github.com/rohitlonkar2006"> <img src="https://img.shields.io/github/followers/rohitlonkar2006?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=00A67E&labelColor=0F2027" alt="GitHub Followers" /> </a> <a href="https://github.com/rohitlonkar2006"> <img src="https://img.shields.io/github/stars/rohitlonkar2006?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=ffcc33&labelColor=0F2027" alt="GitHub Stars" /> </a> <a href="https://github.com/rohitlonkar2006?tab=repositories"> 
 
 <br/><br/>
 
