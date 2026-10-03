@@ -40,7 +40,7 @@ class Rohit:
     title     = "Kusoge Hunter of Code ⚔️"
     focus     = ["Agentic AI", "RAG", "Multi-Agent Systems"]
     main_gear = ["LangChain", "LangGraph", "MCP", "Python"]
-    quest     = "Build AI agents that reason, plan and act 🤖"
+    next_goal = "Deploy powerful AI agents to production 🚀"
 ```
 
 - 🤖 Building **Agentic AI applications** that reason, plan and act
@@ -49,6 +49,7 @@ class Rohit:
 - 🔌 Creating tool-using agents with **MCP (Model Context Protocol)**
 - 🐍 Developing AI applications in **Python**
 - 🗄️ Persisting data with **SQL and SQLite**
+- 🎯 **Next goal:** deploying powerful, production-ready AI agents
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
@@ -80,7 +81,19 @@ class Rohit:
 ## 🏆 Achievements
 
 <div align="center">
+<a href="https://github.com/rohitlonkar2006?tab=achievements">
 <img src="./assets/achievements.svg" alt="Achievements unlocked" width="100%"/>
+</a>
+
+<br/>
+
+### 🦈 Official GitHub Achievements
+
+<a href="https://github.com/rohitlonkar2006?achievement=pull-shark&tab=achievements">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="110" alt="Pull Shark" title="Pull Shark - merged pull requests"/>
+</a>
+
+<sub>Earned on GitHub - click the badge to view it</sub>
 </div>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
@@ -106,11 +119,11 @@ flowchart LR
 
 | ⚔️ Quest | 📈 Progress |
 |---|---|
-| Advanced Agentic AI | ![](https://geps.dev/progress/75?dangerColor=00A67E&warningColor=00A67E&successColor=00A67E) |
-| Multi-Agent Systems | ![](https://geps.dev/progress/60?dangerColor=00A67E&warningColor=00A67E&successColor=00A67E) |
-| Retrieval-Augmented Generation | ![](https://geps.dev/progress/80?dangerColor=00A67E&warningColor=00A67E&successColor=00A67E) |
-| LangGraph Workflows | ![](https://geps.dev/progress/70?dangerColor=00A67E&warningColor=00A67E&successColor=00A67E) |
-| MCP (Model Context Protocol) | ![](https://geps.dev/progress/65?dangerColor=00A67E&warningColor=00A67E&successColor=00A67E) |
+| LangChain | ![](https://geps.dev/progress/90?dangerColor=00A67E&warningColor=00A67E&successColor=00A67E) |
+| LangGraph Workflows | ![](https://geps.dev/progress/90?dangerColor=00A67E&warningColor=00A67E&successColor=00A67E) |
+| MCP (Model Context Protocol) | ![](https://geps.dev/progress/90?dangerColor=00A67E&warningColor=00A67E&successColor=00A67E) |
+| Retrieval-Augmented Generation | ![](https://geps.dev/progress/70?dangerColor=00A67E&warningColor=00A67E&successColor=00A67E) |
+| 🎯 **Next quest: Deploying powerful AI agents** | ![](https://geps.dev/progress/25?dangerColor=ffcc33&warningColor=ffcc33&successColor=ffcc33) |
 
 </div>
 
