@@ -133,22 +133,40 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/rohitlonkar2006?style=for-the-badge&logo=github&color=00A67E&labelColor=0F2027"/>
-<img src="https://img.shields.io/github/stars/rohitlonkar2006?style=for-the-badge&logo=github&color=ffcc33&labelColor=0F2027"/>
-<img src="https://img.shields.io/github/created-at/rohitlonkar2006?style=for-the-badge&logo=github&color=3aa0ff&labelColor=0F2027"/>
+<a href="https://github.com/rohitlonkar2006">
+<img src="https://img.shields.io/github/followers/rohitlonkar2006?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=00A67E&labelColor=0F2027" alt="GitHub Followers"/>
+</a>
+
+<a href="https://github.com/rohitlonkar2006">
+<img src="https://img.shields.io/github/stars/rohitlonkar2006?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=ffcc33&labelColor=0F2027" alt="GitHub Stars"/>
+</a>
+
+<a href="https://github.com/rohitlonkar2006?tab=repositories">
+<img src="https://img.shields.io/github/repos/rohitlonkar2006?style=for-the-badge&logo=github&logoColor=white&label=Public%20Repos&color=3aa0ff&labelColor=0F2027" alt="Public Repositories"/>
+</a>
 
 <br/><br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rohitlonkar2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00E5B0&icon_color=00A67E&include_all_commits=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitlonkar2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00E5B0" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=rohitlonkar2006&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00E5B0&icon_color=00A67E"
+  height="180"
+  alt="Rohit's GitHub Stats"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitlonkar2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00E5B0"
+  height="180"
+  alt="Most Used Languages"
+/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=rohitlonkar2006&theme=tokyonight&hide_border=true&background=0F2027&ring=00E5B0&fire=00A67E&currStreakLabel=00E5B0" />
+<img
+  src="https://streak-stats.demolab.com?user=rohitlonkar2006&theme=tokyonight&hide_border=true&background=0F2027&ring=00E5B0&fire=00A67E&currStreakLabel=00E5B0"
+  alt="GitHub Streak"
+/>
 
 </div>
-
-<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## 📫 Let's Connect
 
