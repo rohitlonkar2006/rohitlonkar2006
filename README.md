@@ -3,21 +3,23 @@
 <img src="./assets/header.svg" alt="Rohit Lonkar - Agentic AI Developer" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=900&color=00E5B0&center=true&vCenter=true&width=860&height=50&lines=Hi+%F0%9F%91%8B+I'm+Rohit+Lonkar+%7C+Computer+Engineering+Student;Clearing+Unique+Scenarios+in+Agentic+AI+%E2%9A%94%EF%B8%8F;Hunting+bugs+like+a+Kusoge+Hunter+%F0%9F%90%9B;Building+with+LangChain+%E2%80%A2+LangGraph+%E2%80%A2+MCP+%E2%80%A2+RAG+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=900&color=00E5B0&center=true&vCenter=true&width=860&height=50&lines=Hi+%F0%9F%91%8B+I%27m+Rohit+Lonkar+%7C+Computer+Engineering+Student;Clearing+Unique+Scenarios+in+Agentic+AI+%E2%9A%94%EF%B8%8F;Hunting+bugs+like+a+Kusoge+Hunter+%F0%9F%90%9B;Building+with+LangChain+%E2%80%A2+LangGraph+%E2%80%A2+MCP+%E2%80%A2+RAG+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=rohitlonkar2006&label=Profile%20Views&color=00A67E&style=for-the-badge" alt="Profile views"/>
+<!-- Profile views counter. If it ever stops loading, swap in the backup line below -->
+<img src="https://views-counter.vercel.app/badge?pageId=rohitlonkar2006%2Frohitlonkar2006&label=Profile+Views&leftColor=0F2027&rightColor=00A67E" alt="Profile views"/>
+<!-- Backup: <img src="https://komarev.com/ghpvc/?username=rohitlonkar2006&label=PROFILE+VIEWS&color=00A67E&style=for-the-badge" alt="Profile views"/> -->
 <img src="https://img.shields.io/badge/Location-Pune%2C%20India-0F2027?style=for-the-badge&logo=googlemaps&logoColor=00E5B0" alt="Location"/>
 <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-00A67E?style=for-the-badge" alt="Status"/>
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/rohit-lonkar-746948274"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/rohitlonkar2006"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://x.com/lonkarrohit77"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="mailto:lonkarrohit77@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/rohit-lonkar-746948274"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/rohitlonkar2006"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://x.com/lonkarrohit77"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="mailto:lonkarrohit77@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
 </div>
 
@@ -57,23 +59,23 @@ class Rohit:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logo=langchain&logoColor=white" height="42"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" height="42"/>
-<img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-6C47FF?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" height="42"/>
-<img src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-FF6B35?style=for-the-badge&logo=huggingface&logoColor=white" height="42"/>
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logo=langchain&logoColor=white" height="42" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" height="42" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-6C47FF?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" height="42" alt="MCP"/>
+<img src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-FF6B35?style=for-the-badge&logo=huggingface&logoColor=white" height="42" alt="RAG"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Agentic_AI-Autonomous_Agents-0A66C2?style=for-the-badge" height="38"/>
-<img src="https://img.shields.io/badge/Multi--Agent-Systems-E91E63?style=for-the-badge" height="38"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="38"/>
+<img src="https://img.shields.io/badge/Agentic_AI-Autonomous_Agents-0A66C2?style=for-the-badge" height="38" alt="Agentic AI"/>
+<img src="https://img.shields.io/badge/Multi--Agent-Systems-E91E63?style=for-the-badge" height="38" alt="Multi-Agent Systems"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="38" alt="Python"/>
 
 </div>
 
 ## 🛠️ Languages & Tools
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,sqlite,mysql,git,github,vscode&perline=6" height="60"/>
+<img src="https://skillicons.dev/icons?i=python,sqlite,mysql,git,github,vscode&perline=6" height="60" alt="Tools"/>
 </div>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
@@ -81,19 +83,9 @@ class Rohit:
 ## 🏆 Achievements
 
 <div align="center">
-<a href="https://github.com/rohitlonkar2006?tab=achievements">
+<a href="https://github.com/rohitlonkar2006?achievement=pull-shark&tab=achievements">
 <img src="./assets/achievements.svg" alt="Achievements unlocked" width="100%"/>
 </a>
-
-<br/>
-
-### 🦈 Official GitHub Achievements
-
-<a href="https://github.com/rohitlonkar2006?achievement=pull-shark&tab=achievements">
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="110" alt="Pull Shark" title="Pull Shark - merged pull requests"/>
-</a>
-
-<sub>Earned on GitHub - click the badge to view it</sub>
 </div>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
@@ -128,28 +120,35 @@ flowchart LR
 </div>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
-📊 GitHub Stats
-<div align="center"> <a href="https://github.com/rohitlonkar2006"> <img src="https://img.shields.io/github/followers/rohitlonkar2006?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=00A67E&labelColor=0F2027" alt="GitHub Followers" /> </a> <a href="https://github.com/rohitlonkar2006"> <img src="https://img.shields.io/github/stars/rohitlonkar2006?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=ffcc33&labelColor=0F2027" alt="GitHub Stars" /> </a> <a href="https://github.com/rohitlonkar2006?tab=repositories"> 
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/rohitlonkar2006"><img src="https://img.shields.io/github/followers/rohitlonkar2006?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=00A67E&labelColor=0F2027" alt="GitHub Followers"/></a>
+<a href="https://github.com/rohitlonkar2006?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-ffcc33?style=for-the-badge&logo=github&logoColor=white&labelColor=0F2027" alt="Repositories"/></a>
+<a href="https://github.com/rohitlonkar2006?tab=achievements"><img src="https://img.shields.io/badge/Achievements-Pull_Shark-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0F2027" alt="Achievements"/></a>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rohitlonkar2006&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00E5B0&icon_color=00A67E&text_color=FFFFFF" height="180" alt="Rohit's GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitlonkar2006&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00E5B0&text_color=FFFFFF" height="180" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=rohitlonkar2006&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00E5B0&icon_color=00A67E&text_color=FFFFFF" height="180" alt="Rohit's GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitlonkar2006&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00E5B0&text_color=FFFFFF" height="180" alt="Most Used Languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=rohitlonkar2006&theme=tokyonight&hide_border=true&background=0F2027&ring=00E5B0&fire=00A67E&currStreakLabel=00E5B0&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=rohitlonkar2006&theme=tokyonight&hide_border=true&background=0F2027&ring=00E5B0&fire=00A67E&currStreakLabel=00E5B0&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak"/>
 
 </div>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## 📫 Let's Connect
 
 <div align="center">
 
-<a href="https://linkedin.com/in/rohit-lonkar-746948274"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/rohitlonkar2006"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://x.com/lonkarrohit77"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://linkedin.com/in/rohit-lonkar-746948274"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/rohitlonkar2006"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://x.com/lonkarrohit77"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 
 <br/><br/>
 
@@ -157,8 +156,8 @@ flowchart LR
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=00E5B0&center=true&vCenter=true&width=760&lines=%E2%AD%90+Passionate+about+Agentic+AI+and+RAG;%F0%9F%A4%9D+Open+to+collaborations+and+AI+projects;%F0%9F%9A%80+Let's+clear+the+next+Unique+Scenario+together" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=00E5B0&center=true&vCenter=true&width=760&lines=%E2%AD%90+Passionate+about+Agentic+AI+and+RAG;%F0%9F%A4%9D+Open+to+collaborations+and+AI+projects;%F0%9F%9A%80+Let%27s+clear+the+next+Unique+Scenario+together" alt="Typing SVG"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A67E,50:203A43,100:0F2027&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A67E,50:203A43,100:0F2027&height=120&section=footer" width="100%" alt=""/>
 
 </div>
